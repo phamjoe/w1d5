@@ -14,4 +14,4 @@ function maxProfit(...args) {
 }
 
 console.log(maxProfit(45, 24, 35, 31, 40, 38, 11));
-console.log(maxProfit(45, 35, 24, 20, 15, 10, 5));
+
